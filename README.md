@@ -4,46 +4,19 @@ A collection of powerful custom skills for Claude Code that combine ancient wisd
 
 ## Skills Overview
 
-This repository contains two interconnected skills for life planning and project management using Getting Things Done (GTD) principles and memento mori philosophy.
+Two **completely independent** skills combining GTD principles with memento mori philosophy - use one or both:
 
-## ⚡ Important: Skill Independence
+**1. Deathbed Clarity Roadmap** (63 questions) - **RECOMMENDED**
+- Complete life transformation: death awareness + life vision → 90-day action plan
+- Fully self-contained, includes all GTD concepts it needs
+- The comprehensive option
 
-**These skills are completely independent and self-contained:**
+**2. GTD Process Project** (33 questions) - **ALTERNATIVE**
+- Simpler project analysis using GTD's 6 altitude levels
+- No death work, just project/life analysis
+- The lighter option
 
-✅ **Deathbed Clarity Roadmap works ENTIRELY ON ITS OWN**
-- Does NOT require GTD Process Project to be present
-- Contains all necessary questions (including vision questions) within itself
-- Fully functional as a standalone skill
-- Can be the ONLY skill in your `/skills` folder
-
-✅ **GTD Process Project works ENTIRELY ON ITS OWN**
-- Standalone project analysis tool
-- No dependency on the deathbed skill
-- Lighter, faster, focused on project/life analysis only
-
-**The Relationship:**
-
-```
-Conceptual:  Deathbed skill "builds upon" GTD concepts
-Technical:   Zero dependency - both are independent files
-```
-
-**What this means:**
-- You can use ONLY Deathbed Clarity Roadmap → Full life transformation ✓
-- You can use ONLY GTD Process Project → Project analysis ✓
-- You can use BOTH → More options for users ✓
-- You can delete either one → The other still works perfectly ✓
-
-**Why have both?**
-- **Deathbed Clarity Roadmap:** Complete, profound, 63 questions, includes death awareness + vision + 90-day plan (RECOMMENDED)
-- **GTD Process Project:** Simpler, 33 questions, just project analysis, no death work (ALTERNATIVE)
-
-**Think of it like:**
-- GTD = Simple calculator
-- Deathbed = Scientific calculator with all features + more
-- Scientific calculator doesn't need the simple one to work - it's already complete
-
-**Recommendation:** Start with **Deathbed Clarity Roadmap** - it's the full experience.
+**Key Point:** Both skills work standalone. Deathbed is like a scientific calculator (has everything), GTD is like a basic calculator. Delete either one - the other still works perfectly.
 
 ---
 
