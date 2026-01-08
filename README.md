@@ -1,6 +1,6 @@
 # Claude Code Custom Skills
 
-A collection of powerful custom skills for Claude Code that combine ancient wisdom with modern productivity frameworks to create actionable life roadmaps.
+Custom skills for Claude Code that combine death awareness (memento mori) with modern productivity frameworks (GTD) to create actionable life roadmaps.
 
 ## Skills Overview
 
